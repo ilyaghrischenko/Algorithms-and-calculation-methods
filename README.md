@@ -2,4 +2,4 @@
 
 KRnU KI-22-1 Hryshchenko Illya
 
-Repository for saving labs on the subject Algorithms and calculation methods
+Repository for saving labs and practical works on the subject Algorithms and calculation methods
